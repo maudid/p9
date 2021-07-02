@@ -1,0 +1,222 @@
+serif;
+<hea<!d>
+<style  type="text/css">
+.tres a {DOCTYPE html PUBLIC>
+
+        font-family: Verdana, Arial, Helvetica, sans-
+        font-size: 16px;
+        font-weight: 900;
+        background-color: #EAF3FB;
+        text-decoration: none;
+        color: #000000;
+        border-top-width: 3px;
+        border-right-width: 3px;
+        border-bottom-width: 3px;
+        border-left-width: 3px;
+        border-top-style: solid;
+        border-right-style: solid;
+        border-bottom-style: solid;
+        border-left-style: solid;
+        border-top-color: #999999;
+        border-right-color: #E9E9E9;
+        border-bottom-color: #E9E9E9;
+        border-left-colof: #000000
+}
+.tres a:hover {
+font-family: Verdana, Arial, Helvetica, sans-
+
+serif;
+                      font-size: 16px;
+                     font-weight: 900;
+                     background-color: #00CCFF;
+                     text-decoration: none;
+                     color: #FFFFFF;
+                     border-top-width: 3px;
+                     border-right-width: 3px;
+                     border-bottom-width: 3px;
+                     border-left-width: 3px;
+                     border-top-style: solid;
+             }
+             </style>
+             </head>
+             <body>
+             <div class="tres">
+             <a href="https://media.gossipvehiculo.com/wp-
+content/uploads/2019/12/06094953/inext_0.jpg"> boton uno </a> <a
+href="https://img.autocosmos.com/noticias/fotosprinc/NAZ_b5dc732d1ff34
+1139e057f60912a0378.jpg"> boton dos </a> <a
+href="https://img.autocosmos.com/noticias/fotos/preview/NAZ_382320c758
+ca4123ba504e1c6fb26dd9.jpg"> boton tres </a>
+</div>
+             </body>
+             </html>
+<!DOCTYPE html PUBLIC>
+<html>
+             <head>
+             <style  type="text/css">
+             .cuatro a {
+                     font-family:Arial, Helvetica, sans-serif;
+                     font-size: 24px;
+                     font-weight: 900;
+                     background-color: #CCCCCC;
+                     text-decoration: none;
+                     color: #383838;
+                     backgroud-image: unl(ima/dosb.pjg);
+                     backgroud-repeat: repeat-x;
+                     backgroud-position: left top;
+                     padding: 5px;
+                     border-top-width: 14px;
+                     border-top-style: ridge;
+                     border-top-color: #FFCC00;
+                     border-right-color: #A48300;
+                     border-bottom-color: #A48300;
+                     border-left-color: #FFCC00;
+                     border-right-width: 14px;
+                     border-bottom-width: 14px;
+                     border-left-width: 14px;
+                     border-right-style: ridge;
+
+}
+border-bottom-style: ridge;
+border-left-style: ridge;
+ .cuatro a:hover {
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 24px;
+        font-weight: 900;
+        background-color: #CCCCCC;
+        text-decoration: none;
+        color: #FFFFFF;
+        backgroud-image: unl(ima/unob.jpg);
+        backgroud-repeat: repeat-x;
+        backgroud-position: left top;
+        padding: 5px;
+        border-top-width: 14px;
+        border-top-style: ridge;
+        border-top-color: #A48300;
+        border-right-color: #FFCC00;
+        border-bottom-color: #FFCC00;
+        border-left-color: #A48300;
+        border-right-width: 14px;
+        border-bottom-width: 14px;
+        border-left-width: 14px;
+        border-right-style: ridge;
+        border-bottom-style: ridge;
+        border-left-style: ridge;
+}
+
+              </style>
+             </head>
+             <body>
+             <div class="cuatro">
+             <a href="https://www.frikipandi.com/wp-
+content/uploads/2016/01/mejores-apps-mecanica-643x330.jpg"> Imagen
+</a> <a
+href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Differ
+entialgetriebe2.jpg/1200px-Differentialgetriebe2.jpg"> Video </a> <a
+href="https://s3.amazonaws.com/mercado-ideas/wp-
+content/uploads/sites/2/2018/02/21170013/di%C3%A9sel-aceite-1-
+6001.jpg"> Musica </a>
+             </div>
+             </body>
+             </html>
+
+<!DOCTYPE html PUBLIC>
+<html>
+          <head>
+          <style type="text/css">
+          .cinco a {
+                   font-family: Arial, Helvetica, sans-serif;
+                   font-size: 28px;
+                   text-decoration: none;
+                   color: #000000;
+                   background-image: url(unob.jpg);
+                   background-repeat: no-repeat;
+                   background-position: center center;
+                   padding:32px;
+          }
+          .cinco a:hover {
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 28px;
+         text-decoration: none;
+         color: #FFFFFF;
+         background-image: url(dosb.jpg);
+         padding:32px;
+</style>
+</head>
+}
+
+           <body>
+          <div class="cinco">
+          <a
+href="https://i.pinimg.com/originals/95/2d/0b/952d0bf331e26b3e1806f366
+27a9f714.jpg"> A </a> <a href="https://encrypted-
+tbn0.gstatic.com/images?
+q=tbn:ANd9GcTgsVlW9uwzNppk3d1XL_N17GfAcWXwMddkGmZGAtEWGp98G1s5PU8SDbdT
+NuILgklAK1o&usqp=CAU"> B </a> <a
+href="https://st4.depositphotos.com/13194036/20469/i/600/depositphotos
+_204690536-stock-photo-auto-mechanics-repairing-car-without.jpg"> C
+</a>
+          </div>
+          </body>
+          </html>
+<!DOCTYPE html PUBLIC>
+<html>
+          <head>
+          <style type="text/css">
+          .cinco a {
+                   font-family: Arial, Helvetica, sans-serif;
+                   font-size: 28px;
+                   text-decoration: none;
+                   color: #000000;
+                   background-repeat: no-repeat;
+                   background-position: center center;
+                   padding:32px;
+          }
+          .cinco a:hover {
+         font-family: Arial, Helvetica, sans-serif;
+         font-size: 28px;
+         text-decoration: none;
+         color: #FFFFFF;
+         padding:32px;
+</style>
+</head>
+}
+
+<body>
+          <div class="cinco">
+          <a href="https://es-la.facebook.com/"> <img
+src="https://www.facebook.com/images/fb_icon_325x325.png"> </a>
+          <a href="https://twitter.com/intent/tweet?
+text=titulo&url=url&via=user"> <img src="https://encrypted-
+tbn0.gstatic.com/images?
+q=tbn:ANd9GcSZiVwMDYhRjlIkvLl96vibiisW69v68aACyw&usqp"> </a>
+          <a href="https://plus.google.com/share?url=url"><img
+src="https://www.lifewire.com/thmb/pJS9NLQ3BR79lLB4-
+iwWkaDVf28=/2400x1600/filters:no_upscale():max_bytes(150000):strip_icc
+()/g-plus-logo-d93f702abf37428e96d05d2449931030.jpg"> </a>
+          </div>
+          </body>
+          </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
